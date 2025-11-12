@@ -1,7 +1,7 @@
 <!-- 🛡️ AGNISWAR MUKHERJEE | CYBER SECURITY ENGINEER -->
 
 <p align="center">
-  <img src="https://github.com/agnisinfosec/Assets/blob/main/A_digital_graphic_design_profile_banner_for_Agnisw.png" width="100%" alt="Cyber Security Banner"/>
+  <img src="https://raw.githubusercontent.com/agnisinfosec/Assets/main/security-banner.png" width="100%" alt="Cyber Security Banner"/>
 </p>
 
 <h1 align="center">👨‍💻 Hey there, I'm <span style="color:#00FFFF;">Agniswar Mukherjee</span></h1>
