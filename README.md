@@ -63,13 +63,19 @@ I blend **human intuition** with **machine intelligence** to create adaptive and
 ### 🕵️ Featured Projects
 
 #### 🔸 **AI-Driven Intrusion Prevention System (AI-IPS)**
-> A FastAPI-based AI-IPS that detects, scores, and mitigates threats using ML pipelines and JWT-secured microservices.  
+> A FastAPI-based AI-IPS that detects, scores, and mitigates threats using ML pipelines and JWT-secured microservices. 
+
+---
 
 #### 🔸 **Web Application Pentest Suite**
 > Performed full-scope vulnerability assessments using Nikto, Uniscan & Burp, and automated continuous remediation workflows.  
 
+---
+
 #### 🔸 **Adaptive Threat Scoring Engine**
 > LLM-powered anomaly detection engine for real-time risk prioritization.
+
+---
 
 #### 🔸 **ChromeForensics-Research**
 > A digital forensics research project focused on extracting, analyzing, and interpreting browser artifacts from Google Chrome. It assists investigators in recovering browsing history, downloads, cookies, login data, bookmarks, and other forensic evidence for incident response and cyber investigations.
