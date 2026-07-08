@@ -69,7 +69,19 @@ I blend **human intuition** with **machine intelligence** to create adaptive and
 > Performed full-scope vulnerability assessments using Nikto, Uniscan & Burp, and automated continuous remediation workflows.  
 
 #### 🔸 **Adaptive Threat Scoring Engine**
-> LLM-powered anomaly detection engine for real-time risk prioritization.  
+> LLM-powered anomaly detection engine for real-time risk prioritization.
+
+#### 🔸 **ChromeForensics-Research**
+> A digital forensics research project focused on extracting, analyzing, and interpreting browser artifacts from Google Chrome. It assists investigators in recovering browsing history, downloads, cookies, login data, bookmarks, and other forensic evidence for incident response and cyber investigations.
+
+**Tech:** Java • Digital Forensics • Chrome Artifact Analysis • Incident Response
+
+---
+
+#### 🔸 **VulnDetect-Automated-Vulnerability-Detection-Engine**
+> An automated source code vulnerability detection engine that performs static analysis to identify common security weaknesses such as SQL Injection, Command Injection, Hardcoded Credentials, Weak Cryptography, and other insecure coding patterns. Designed to help developers detect vulnerabilities early in the SDLC.
+
+**Tech:** Python • Static Code Analysis • AST • Secure Coding • DevSecOps
 
 ---
 
