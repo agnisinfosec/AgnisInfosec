@@ -91,30 +91,6 @@ I blend **human intuition** with **machine intelligence** to create adaptive and
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=agnisinfosec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnisinfosec&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=agnisinfosec&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:agnis.infosec@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/agniswar-mukherjee-561761364"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/agnisinfosec"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub"/></a>
-</p>
-
----
-
 ### ⚙️ Contact Info
 📧 **Email:** [agnis.infosec@gmail.com](mailto:agnis.infosec@gmail.com)  
 📞 **Phone:** +91 8116521582  
